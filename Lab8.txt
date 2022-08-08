@@ -25,8 +25,9 @@ Send screenshot
 
 Step 4
 Go to AWS System Manager Dashboard
-Under "Node Management" click Fleet Manager
-Wait for about 5-15 minutes for your instance to show under Managed nodes, by clicking on the refresh button on the Fleet Manager dashboard.
+Under "Node Management" click Fleet Manager, click  get start with fleet manager
+Wait for about 5-15 minutes for your instance to show under Managed nodes, 
+by clicking on the refresh button on the Fleet Manager dashboard.
 Send screenshot for confirmation
 
 Step 5
