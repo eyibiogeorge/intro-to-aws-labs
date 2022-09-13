@@ -52,7 +52,8 @@ Launch instance
 Step 2
 Select the newly launched Windows server and click on Actions
 Click Connect --> click RDP client
-Download the remote desktop file on your local machine(this will open up a window)--> click continue and click connect anyways
+Download the remote desktop file on your local machine(this will open up a window)--> 
+click continue and click connect anyways
 Go back to the AWS console and click "Get password"
 Browse to the key pair you created in step 1,and select it
 Click "Decrypt password" ,
