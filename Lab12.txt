@@ -19,7 +19,7 @@ Enter "10.0.1.0/24" in the IPv4 CIDR block tab
 Give it the name "private01"
 Select the same AZ as above
 Enter "10.0.3.0/24" in the IPv4 CIDR block tab
-(Create 2 Subnets in AZ B- name public02 and private 02 respectively)
+(Create 2 Subnets in AZ B- name public02 and private02 respectively)
  Click "Add new subnet"
 Give it the name "public02"
 Select another AZ different from the one above
