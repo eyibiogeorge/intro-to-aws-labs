@@ -21,7 +21,7 @@ Go back to your EC2 instance and connect to it using the 'aws cloud shell" not E
 Upload the key pair of the instance from your local machine into the cloud shell
 Run the command ls -la to verify that your key is uploaded correctly.
 go to the right hand conner and upload your keypair
-chmod 700 keypair-name
+chmod 400 keypair-name
 go to connect tab select ssh client copy and paste the link on your cloudshell
 Run command ssh -i "lab2-kp.pem" ec2-user@ec2-3-26-172-223.ap-southeast-2.compute.amazonaws.com
 
@@ -34,4 +34,7 @@ Step3(Documentation)
 Document all the steps in the file you have opened in the editor.
 Save and git add and git commit
 Push to your personal repo.
+
+the end
+
 
